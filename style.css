@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nft-container{
+    border: 2px solid red;
+    height: 70vh;
+    width: 70vw;
+    padding: 20px;
+}
